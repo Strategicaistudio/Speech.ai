@@ -1,0 +1,8 @@
+{
+  "name": "Vaani Hindi TTS Studio - 30 Min Speech Generator",
+  "description": "Professional Hindi Text-to-Speech studio powered by gemini-3.8-flash-tts, capable of synthesizing natural, expressive Hindi long-form speech up to 30 minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
